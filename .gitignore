@@ -1,0 +1,7 @@
+nexus_bot_profile/
+downloads/
+build/
+dist/
+*.spec
+__pycache__/
+*.pyc
